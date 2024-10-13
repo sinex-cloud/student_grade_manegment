@@ -1,0 +1,9 @@
+adam|50
+ahmed|aa
+ahmed|50
+reee|60
+adam|30
+aziz|30
+zebi|90
+7omsa|40
+hamma|100

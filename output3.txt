@@ -1,0 +1,6 @@
+adam|50
+aziz |30
+aaaaa|22
+adam|a
+AHMED |12
+BRINI|30
